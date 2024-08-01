@@ -1,4 +1,4 @@
-let EndDate = "31 ,aug, 2024, 04:15:30 PM";
+let EndDate = "31 ,aug, 2025, 04:15:30 PM";
 document.querySelector("h2").innerText = EndDate;
 let exp = document.querySelector(".Date-exp");
 
